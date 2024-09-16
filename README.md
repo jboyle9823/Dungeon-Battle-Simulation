@@ -19,5 +19,5 @@ See the Design Decision Report for full details, including implementation strate
 
 
 ## Screenshots
-![Screenshot 2024-09-16 112414](https://github.com/user-attachments/assets/f27726f3-4181-4467-be61-7d751952a716)![Screenshot 2024-09-16 112830](https://github.com/user-attachments/assets/68c575fc-d4c4-4dce-9f90-5807497b7545)
+ ![Screenshot 2024-09-16 112414](https://github.com/user-attachments/assets/f27726f3-4181-4467-be61-7d751952a716) ![Screenshot 2024-09-16 112830](https://github.com/user-attachments/assets/68c575fc-d4c4-4dce-9f90-5807497b7545)
 
